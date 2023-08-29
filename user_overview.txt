@@ -1,0 +1,10 @@
+﻿9 10
+admin 3 30.0 33.3 66.7 0.0
+userone 2 20.0 50.0 50.0 0.0
+usertwo 1 10.0 0.0 100.0 0.0
+userfour 1 10.0 0.0 100.0 0.0
+userfive 1 10.0 100.0 0.0 0.0
+userseven 1 10.0 0.0 100.0 0.0
+usereight 0 0.0 0 0 0
+usersix 1 10.0 0.0 100.0 0.0
+usernine 0 0.0 0 0 0
