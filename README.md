@@ -21,13 +21,10 @@ To get started with the task manager program, follow these steps:
 
 ## Usage
 
-### Registering a User
-
-To register a new user, choose the "Register" option from the main menu, then enter a unique username and password when prompted.
-
 ### Logging In
 
 Use the "Login" option to access the task manager functionalities. Enter your username and password to log in.
+Entering the username or password incorrectly 3 times consecutively will result in your account being blocked for 10 seconds.
 
 ### Adding a Task
 
@@ -37,15 +34,26 @@ After logging in, choose the "Add Task" option to assign a task to a specific us
 
 Select the "View Tasks" option to see the tasks assigned to you or tasks assigned to other users. Admin users can view tasks assigned to all users.
 
-## Contributing
+### Additional Functionality for the Administrator User
 
-Contributions are welcome! If you have any ideas for improvement, bug fixes, or new features, feel free to open an issue or submit a pull request.
+#### Registering a User
+
+To register a new user, choose the "Register" option from the main menu, then enter a unique username and password when prompted.
+
+#### De-registering a User
+
+To de-register an existing user, choose the "de-register" option from the main menu, then enter a unique username and password when prompted.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvement, bug fixes, or new features, feel free to open an issue or submit a pull request.
+
 ## Acknowledgements
 
 - This task manager program was created as a simple solution for small businesses to manage tasks efficiently.
-- Special thanks to contributors who have helped improve and maintain this project.
+
