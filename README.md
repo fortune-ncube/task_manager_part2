@@ -9,6 +9,7 @@ This task manager program is designed to help small businesses efficiently manag
 - **Task Assignment**: Assign tasks to specific users within the team.
 - **Task Management**: Add tasks with titles, descriptions, due dates, and track their completion status.
 - **Administrator Rights**: An admin user can register other users and has additional privileges.
+- **Dual Display Format**: A user has an option to view tasks in either a tabular or a list format.
 
 ## Getting Started
 
