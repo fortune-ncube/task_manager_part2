@@ -27,6 +27,7 @@ To get started with the task manager program, follow these steps:
 
 Use the "Login" option to access the task manager functionalities. Enter your username and password to log in.
 Entering the username or password incorrectly 3 times consecutively will result in your account being blocked for 10 seconds.
+Without altering the file, "user.txt" has a set of usernames and passwords you can use to login.
 
 ### Adding a Task
 
